@@ -1,0 +1,17 @@
+The Titanic dataset contains data about passengers on infamous Titanic
+
+Fields:
+ - PassengerId - data index
+ - Survived - flag, survived or not (1 or 0)
+ - Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+ - Name - Name
+ - Sex - Sex
+ - Age - Age
+ - SibSp - Number of Siblings/Spouses Aboard
+ - Parch - Number of Parents/Children Aboard
+ - Ticket - Ticket Number
+ - Fare - Ticket Fare (British Pound)
+ - Cabin - Cabin
+ - Embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+
