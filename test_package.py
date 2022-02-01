@@ -1,0 +1,1 @@
+print('Hi! I`m test package in file')
