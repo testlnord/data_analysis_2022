@@ -123,3 +123,5 @@ print(len(df2))  # number of rows
 #%%
 iris = pd.read_csv('data/iris.csv')
 print(iris.head())
+#%%
+iris[['petal.width', 'petal.length']].plot(x='petal.width', y='petal.length',kind='scatter', c=np.where(iris['variety'] == 'Setosa', '#333333', '#FF0000'))
