@@ -85,7 +85,7 @@ zipfian - это само распределение Ципфа, оно появ
 """
 from scipy.stats import zipfian
 
-x = zipfian.rvs(s=1, n = 10, size=100)
+x = zipfian.rvs(1, 10 , size=100)
 fig, ax = plt.subplots()
 ax.hist(x)
 
