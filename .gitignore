@@ -2,6 +2,7 @@ hw*.py
 HW*.py
 hW*.py
 Hw*.py
+*.ipynb
 .DS_Store
 .idea/
 __pycache__/
